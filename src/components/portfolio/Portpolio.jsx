@@ -46,7 +46,7 @@ const Portpolio = () => {
           </div>
           <h3>สร้างจาก REACT JS</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/" className="btn" target="_blank" rel="noreferrer">
+            <a href="https://github.com/Mindnattpong/React-Work.git" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
             <a href="https://react-portfolio-928fd.web.app/" className="btn btn-primary" target="_blank" rel="noreferrer">
